@@ -1,6 +1,6 @@
 const models = require('../models');
 const Account = models.Account;
-
+//Comment
 const loginPage = (req, res) => {
     return res.render('login');
 };
